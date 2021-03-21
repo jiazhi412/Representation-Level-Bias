@@ -1,0 +1,10 @@
+*__pycache__*
+*.pyc
+*.DS_Store
+data*
+runs
+.idea
+*result*
+checkpoint*
+.vscode
+colored_mnist*

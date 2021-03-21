@@ -1,0 +1,8 @@
+numpy==1.18.5
+matplotlib==3.2.2
+tqdm==4.47.0
+torchvision==0.8.2+cu110
+torch==1.7.1+cu110
+parse==1.19.0
+Pillow==8.1.2
+scikit_learn==0.24.1
