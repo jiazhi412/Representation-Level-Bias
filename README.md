@@ -1,4 +1,20 @@
-# Colored MNIST
+# Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition
+Code for the FG2021 paper:
+
+[Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition](https://arxiv.org/abs/2111.04673)
+
+Jiazhi Li, Wael Abd-Almageed
+
+```
+@misc{li2021informationtheoretic,
+      title={Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition}, 
+      author={Jiazhi Li and Wael Abd-Almageed},
+      year={2021},
+      eprint={2111.04673},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
 
 ## Requirements
 ```
