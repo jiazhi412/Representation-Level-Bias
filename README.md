@@ -1,5 +1,6 @@
-# Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition
-Code for the FG2021 paper:
+# Representation Level Bias (RLB) Assessment
+
+![Teaser image](./docs/Figure1.png)
 
 [Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition](https://arxiv.org/abs/2111.04673)
 
