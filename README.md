@@ -6,13 +6,13 @@ Code for the FG2021 paper:
 Jiazhi Li, Wael Abd-Almageed
 
 ```
-@misc{li2021informationtheoretic,
-      title={Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition}, 
-      author={Jiazhi Li and Wael Abd-Almageed},
-      year={2021},
-      eprint={2111.04673},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{li2021information,
+  title={Information-Theoretic Bias Assessment Of Learned Representations Of Pretrained Face Recognition},
+  author={Li, Jiazhi and Abd-Almageed, Wael},
+  booktitle={2021 16th IEEE International Conference on Automatic Face and Gesture Recognition (FG 2021)},
+  pages={1--8},
+  year={2021},
+  organization={IEEE}
 }
 ```
 
